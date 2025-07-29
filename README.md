@@ -9,7 +9,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 - Web Development: -HTML , CSS , JavaScript (JS).
 - Programming Languages: - Python.
 - Databases: SQL.
-- Other Tools: - Git , GitHub, Android Studio, Visual Studio Code (VS Code).
+- Other Tools: - Git , GitHub, Visual Studio Code (VS Code).
   
 ## Known Languages
 <p align="left">
