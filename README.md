@@ -20,8 +20,9 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
  
 </p>
 
-## Github Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anu252203&theme=vision-friendly-dark&hide_border=false" alt="Anu252003" />.
+## 📊 GitHub Stats
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anu252003&theme=vision-friendly-dark&hide_border=false" alt="Anu252003" />
+
 
 ### Other Skills
 
