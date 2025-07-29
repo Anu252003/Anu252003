@@ -1,58 +1,69 @@
----
-# Hi there! 👋 I'm Anu R
+# 👋 Hey there, I'm Anu R!
 
-Welcome to my GitHub profile! I'm passionate about web development, programming, and multimedia. Let me introduce myself and share my skills and projects with you.
-I'm a software enthusiast with a love for problem-solving and creative projects. My journey in the tech world has been exciting, and I'm always eager to learn and explore new technologies.
-
-## Skills and Technologies
-
-- Web Development: -HTML , CSS , JavaScript (JS)
-- Programming Languages: - Java , Python.
-- Databases: SQL
-- Other Tools: - Git , GitHub, Visual Studio Code (VS Code).
-  
-## Known Languages
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
- 
-</p>
-
-## Github Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiruba1018&theme=vision-friendly-dark&hide_border=false" alt="Kiruba1018" />.
-
-### Other Skills
-
-<p align="left">
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-## Achievements
-.
-
-## Contact
-
-Feel free to reach out to me at lash5778@gmail.com. Let's connect and collaborate!
+Welcome to my GitHub! I'm a **software enthusiast** with a strong interest in **web development, programming, and multimedia design**. I enjoy solving problems, building clean UIs, and bringing creative ideas to life through code.
 
 ---
+
+## 🚀 About Me
+
+- 🌱 Currently exploring full-stack web development  
+- 🛠️ I love working with HTML, CSS, JavaScript, Java, and Python  
+- 🎨 I also enjoy working with multimedia tools like Adobe Photoshop, Premiere Pro, and After Effects  
+- 💡 Passionate about learning, building, and sharing tech knowledge  
+- 📍 Based in India 🇮🇳  
+
+---
+
+## 🧠 Skills & Tools
+
+### 💻 Web & Programming
+
+- **Languages**: HTML, CSS, JavaScript, Java, Python, SQL  
+- **Tools**: Git, GitHub, Visual Studio Code  
+
+### 🧰 Developer Stack (Icons)
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/></a>
+  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/></a>
+  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/></a>
+</p>
+
+---
+
+## 🎨 Creative Tools
+
+<p align="left">
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40"/></a>
+  <a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40"/></a>
+  <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anu252003&theme=tokyonight&hide_border=true" alt="Anu's GitHub Streak" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+---
+
+## 📬 Contact Me
+
+Let's connect and collaborate!  
+📧 Email: [lash5778@gmail.com](mailto:lash5778@gmail.com)
+
+---
+
+> ✨ *“The best way to learn is by building — and I build with passion.”*
+
