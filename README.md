@@ -50,7 +50,7 @@ I'm a passionate and detail-oriented software developer with a growing interest 
 
 - 💼 LinkedIn: [linkedin.com/in/anu252003](https://www.linkedin.com/in/anu252003)
 - 🧰 GitHub: [github.com/Anu252003](https://github.com/Anu252003)
-- 📧 Email: *(Add if you'd like)*
+- 📧 Email: lash5778@gmail.com
 
 ---
 
