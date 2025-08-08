@@ -21,16 +21,14 @@ I'm a passionate and detail-oriented software developer with a growing interest 
 
 | Frontend | Tools & Platforms | Design |
 |----------|-------------------|--------|
-| HTML5, CSS3, JavaScript (ES6+) | Git & GitHub, Vite, VS Code | Figma, Canva |
+| HTML5, CSS3, JavaScript (ES6+) | Git & GitHub, Vite, VS Code | Canva |
 | React (Learning) | Chrome DevTools | Creative Problem Solving |
 
 ---
 
 ### 📊 GitHub Stats
+<img src="https://streak-stats.demolab.com?user=Anu252003&theme=vision-friendly-dark&hide_border=false" alt="Anu252003's GitHub Streak" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anu252003&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anu252003&show_icons=true&theme=vision-friendly-dark&hide_border=false" alt="GitHub Stats" />
