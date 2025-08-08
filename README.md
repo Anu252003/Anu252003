@@ -28,7 +28,7 @@ I'm a passionate and detail-oriented software developer with a growing interest 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Working GitHub Streak -->
+  <!-- Working GitHub Streak (FIXED) -->
   <img src="https://streak-stats.demolab.com?user=Anu252003&theme=vision-friendly-dark&hide_border=false" alt="Anu252003's GitHub Streak" />
 </p>
 
