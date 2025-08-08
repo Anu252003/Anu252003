@@ -25,13 +25,16 @@ I'm a passionate and detail-oriented software developer with a growing interest 
 | React (Learning) | Chrome DevTools | Creative Problem Solving |
 
 ---
-
-### 📊 GitHub Stats
-<img src="https://streak-stats.demolab.com?user=Anu252003&theme=vision-friendly-dark&hide_border=false" alt="Anu252003's GitHub Streak" />
-
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anu252003&show_icons=true&theme=vision-friendly-dark&hide_border=false" alt="GitHub Stats" />
+  <!-- Working GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Anu252003&theme=vision-friendly-dark&hide_border=false" alt="Anu252003's GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Anu252003&show_icons=true&theme=vision-friendly-dark&hide_border=false" />
 </p>
 
 ---
